@@ -4,5 +4,10 @@
   "description": "Prettier config to reuse",
   "main": "index.js",
   "author": "Andreas Rissling <andreas.rissling@gmx.net>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arisslin/configs",
+    "directory": "packages/prettier-config"
+  },
   "license": "ISC"
 }

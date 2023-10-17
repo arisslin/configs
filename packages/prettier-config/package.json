@@ -4,6 +4,9 @@
   "description": "Prettier config to reuse",
   "main": "index.js",
   "author": "Andreas Rissling <andreas.rissling@gmx.net>",
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/arisslin/configs",

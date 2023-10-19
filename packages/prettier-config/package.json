@@ -1,6 +1,6 @@
 {
   "name": "@arissling/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Prettier config to reuse",
   "main": "index.js",
   "author": "Andreas Rissling <andreas.rissling@gmx.net>",
